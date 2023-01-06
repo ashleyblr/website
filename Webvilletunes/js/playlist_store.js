@@ -30,4 +30,4 @@ function save(item) {
     return playlistArray;
   }
   Footer
-  ©
+  
