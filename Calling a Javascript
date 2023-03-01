@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Calling a function in Javascript</title>
+</head>
+<style>
+body {
+background-image: url(https://images.unsplash.com/photo-1493514789931-586cb221d7a7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFlc3RoZXRpYyUyMGRlc2t0b3AlMjB3YWxscGFwZXJ8ZW58MHx8MHx8&w=1000&q=80)
+}
+</style>
+</html>
+<body>
+<font color="#00ff00"
+face'"verdana" size="1"
+</font>
+<h2>Calling a Javascript</h2>
+In order to call a Javascript, you have to define the function and use myFunction (a) in the body.
+<script>
+
+function myFunction(){
+alert("You have successfully called the function");
+}
+</script>
+<button tyoe="button" onclick="myFunction();">Click me</button>
+</body>
+</html>
